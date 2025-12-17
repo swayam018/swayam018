@@ -3,8 +3,6 @@
 
 - 🔭 I’m currently working on [envitacrm](https://github.com/swayam018/envitainteriocrm)
 
-- 👨‍💻 All of my projects are available at [https://github.com/swayam018?tab=repositories](https://github.com/swayam018?tab=repositories)
-
 - 💬 Ask me about **React,Next.js,Express.js,MongoDB,Redis**
 
 <h3 align="left">Connect with me:</h3>
